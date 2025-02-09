@@ -1,0 +1,71 @@
+\documentclass{article}
+\usepackage{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english,pinyin]{babel}
+\babelprovide[main,import,language=Default]{english}
+\babelprovide[import,language=Chinese Simplified]{chinese-simplified}
+\babelfont[chinese-simplified]{rm}{SimSun}
+\babelfont[chinese-simplified]{sf}{STKaiti}
+\usepackage{paracol}
+\usepackage{hyperref}
+\setlength{\columnseprule}{0.5pt}
+\usepackage{indentfirst}
+\setlength{\parindent}{1.5em}
+\footnotelayout{m}
+\newcommand{\chn}[1]{\foreignlanguage{chinese-simplified}{#1}}
+
+
+\begin{document}
+\title{My Recipes}
+\author{Yi}
+\date{\today}
+\maketitle
+\begin{abstract}
+    \chn{\textsf{个人尝试过}并且效果不错的一些菜谱，以及其参考教程和英文翻译。}
+    Some recipes \emph{I have personally tried} with good results, together with their reference tutorials and English translations.
+\end{abstract}
+\tableofcontents
+\section{\foreignlanguage{chinese-simplified}{红烧排骨} Red-Braised Pork Ribs}
+Reference: \url{https://m.xiachufang.com/recipe/104038857/}.
+
+Ingredients: 
+\begin{itemize}
+    \item \chn{排骨，生抽，白糖，料酒，生姜，香叶，桂皮}
+    \item Pork ribs, (light) soy sauce, white sugar, cooking wine, ginger, bay leaves, cinnamon stick \footnote{Bay leaves and cinnamon sticks can be substituted with other spices.}
+\end{itemize}
+
+\begin{paracol}{2}
+    \begin{enumerate}
+        \item \foreignlanguage{chinese-simplified}{将肋排切成小块，沿着骨头方向即可。}
+        \item \chn{把排骨冷水下锅焯水，煮沸之后冲凉水将排骨洗净。}
+        \item \chn{准备几片姜片，香叶一片，桂皮一块，泡在水中作为香料水备用。}
+        \item \chn{炒糖色：在锅中加入油和2大勺白糖，中小火慢熬大约2分钟，同时沿一个方向搅拌，至白糖变成黄色泡沫状即可。}
+        \item \chn{把排骨加入糖色中翻炒，使其裹上糖汁，之后加入香料水（包含香料）。}
+        \item \chn{加入适量生抽和料酒，盖上锅盖中小火炖大约30分钟。}
+        \item \chn{当汤汁基本收成酱汁时，翻炒一下排骨让其被酱汁包裹。}
+    \end{enumerate}
+    
+    \switchcolumn
+    \begin{enumerate}
+        \item Cut the pork ribs into small pieces, along the direction of the bones.
+        \item Place the pork ribs in a pot of cold water and bring to a boil. 
+        Once boiling, rinse the ribs under cold water to clean them thoroughly.
+        \item Prepare a few slices of ginger, one bay leaf, and a piece of cinnamon stick. 
+        Soak them in water to make spiced water for later use.
+        \item Caramelizing sugar \footnote{This step is to give the dish a rich, reddish glaze. If you don't aim for this effect, you can skip this step and add dark soy sauce later as a substitute.}: 
+        Add oil and 2 tablespoons of white sugar to a pan. 
+        Cook over medium-low heat for about 2 minutes, stirring in one direction until the sugar turns into a yellow, foamy texture.
+        \item Add the pork ribs to the caramelized sugar and stir-fry until they are coated with the sugar syrup. 
+        Then add the spiced water (including the spices).
+        \item Add an appropriate amount
+        \footnote{For reference: 500g of pork ribs can be seasoned with 3 teaspoons of light soy sauce and 2 teaspoons of cooking wine. 
+        If you're concerned about the dish being too salty, start with a smaller amount of soy sauce, and add more during the simmering process if the flavor is too bland.} 
+        of light soy sauce and cooking wine. 
+        Cover the pot and simmer over medium-low heat for about 30 minutes.
+        \item When the sauce has reduced to a thick consistency, stir-fry the pork ribs to coat them with the sauce.
+    \end{enumerate}
+\end{paracol}
+\section{\chn{虾仁滑蛋} Shrimp with Scrambled Eggs}
+
+\end{document}
