@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.7.5)  11 FEB 2025 10:59
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.7.5)  24 FEB 2025 00:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -392,10 +392,6 @@ Package hyperref Info: Link coloring OFF on input line 19.
 \@outlinefile=\write3
 \openout3 = `Recipe.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 24.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -477,7 +473,7 @@ Package fontspec Info:
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"STKaiti/OT:script=hani;language=ZHS;mapping=tex-text;"
 
-(./Recipe.toc
+ (./Recipe.toc
 
 LaTeX Font Warning: Font shape `TU/SimSun(0)/bx/n' undefined
 (Font)              using `TU/SimSun(0)/m/n' instead on input line 2.
@@ -492,9 +488,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 30.
  [1
 
-]
+] [2]
 
-[2] (./Recipe.aux)
+[3] (./Recipe.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
@@ -507,12 +503,12 @@ Package rerunfilecheck Info: File `Recipe.out' has not changed.
 (rerunfilecheck)             Checksum: 4315EB91BA0F3F81C2093AACF1749AB1;416.
  ) 
 Here is how much of TeX's memory you used:
- 12885 strings out of 474240
- 261846 string characters out of 5742354
+ 12883 strings out of 474240
+ 261800 string characters out of 5742354
  1940557 words of memory out of 5000000
- 35405 multiletter control sequences out of 15000+600000
+ 35403 multiletter control sequences out of 15000+600000
  564371 words of font info for 74 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  80i,9n,109p,4250b,644s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Recipe.pdf (2 pages).
+Output written on Recipe.pdf (3 pages).

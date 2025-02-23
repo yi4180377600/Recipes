@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1739267989.94022 "/Users/shanyi/LaTeX/Cooking_Recipe/Recipe.tex" "Recipe.pdf" "Recipe" 1739267990.89621 2
-  "/Users/shanyi/LaTeX/Cooking_Recipe/Recipe.tex" 1739267988.70062 4034 d8de82ce97dfc8f38e9fd69e339829cb ""
+["pdflatex"] 1740350515.20006 "/Users/shanyi/LaTeX/Cooking_Recipe/Recipe.tex" "Recipe.pdf" "Recipe" 1740350516.03619 2
+  "/Users/shanyi/LaTeX/Cooking_Recipe/Recipe.tex" 1740350513.93306 4198 ec5cff02c69c682921f86f83ffc8a615 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -93,10 +93,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1720187887 5483212 5ca4a6f711768cda56ff4b2d946fe634 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1720187941 8239396 3296211d263bb4366b7b213e6253e6e2 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Recipe.aux" 1739267990.65567 608 2ad985eacb2580882140abbf9854e83e "pdflatex"
-  "Recipe.out" 1739267990.65745 416 4315eb91ba0f3f81c2093aacf1749ab1 "pdflatex"
-  "Recipe.tex" 1739267988.70062 4034 d8de82ce97dfc8f38e9fd69e339829cb ""
-  "Recipe.toc" 1739267990.65765 292 b4ba92da4ef365a4c9ce3fa5ad0676fd "pdflatex"
+  "Recipe.aux" 1740350515.77452 608 2ad985eacb2580882140abbf9854e83e "pdflatex"
+  "Recipe.out" 1740350515.77602 416 4315eb91ba0f3f81c2093aacf1749ab1 "pdflatex"
+  "Recipe.tex" 1740350513.93306 4198 ec5cff02c69c682921f86f83ffc8a615 ""
+  "Recipe.toc" 1740350515.77623 292 b4ba92da4ef365a4c9ce3fa5ad0676fd "pdflatex"
   (generated)
   "Recipe.aux"
   "Recipe.log"
